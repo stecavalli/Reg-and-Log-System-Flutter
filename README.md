@@ -23,8 +23,8 @@ Software Versions Used:
 Android Studio Giraffe | 2022.3.1 Patch 2
 <br>
 Hosting site: altervista.org
- # Guide to creating and developing apps for 
- # the web and Android smartphones.
+ # Guide to creating and developing apps 
+ <b> for the web and Android smartphones. </b>
 Open Android Studio and create a New Flutter Project by clicking on the
  <br>
 appropriate button which will start the wizard.
