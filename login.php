@@ -7,7 +7,7 @@
      $conn = mysqli_connect($server, $user, $pass, $db);
      
      if (!$conn) {
-         echo "Connection Failed: " . mysqli_connect_error();
+         die("Database connection failed:" . mysqli_connect_error());
      }
      
      $username = $_POST['username'];
@@ -20,7 +20,7 @@
      $result = mysqli_stmt_get_result($stmt);
      
      if (!$result) {
-         echo "Query error: " . mysqli_errno($conn);
+         die("Query error: " . mysqli_errno($conn));
      }
      
      if ($row = mysqli_fetch_assoc($result)) {
