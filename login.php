@@ -22,8 +22,8 @@
      if (!$result) {
          die("Query error: " . mysqli_errno($conn));
      }
-     
-     if ($row = mysqli_fetch_assoc($result)) {
+     $row = mysqli_fetch_assoc($result);
+     if ($row) {
          $hashed_password = $row['password'];
          $is_active = $row['active']; 
      
