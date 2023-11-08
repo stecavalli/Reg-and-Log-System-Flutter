@@ -80,14 +80,14 @@ found in this repository.
  # Build the Android App
  In the Android Studio terminal run the instruction:
  <br>
- flutter build web --no-tree-shake-icons
+ flutter build apk --no-tree-shake-icons
  <br>
- The web application files will be generated. You just need to upload them to the server. 
+ The apk file to install on your Android smartphone will be generated.
  <br>
- View the image below for more details.
+ See the image below:
  <br>
  <br>
- <img src="web_build.png" alt="screen android 1" width="800" height="620">
+ <img src="android_app.png" alt="screen android 1" width="800" height="427">
  <br>
  <br>
 <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
