@@ -69,7 +69,7 @@ found in this repository.
  # Build the Web App
  In the Android Studio terminal run the instruction:
  <br>
- flutter build web --no-tree-shake-icons
+ <i>flutter build web --no-tree-shake-icons</i>
  <br>
  The web application files will be generated. You just need to upload them to the server. 
  <br>
@@ -80,7 +80,7 @@ found in this repository.
  # Build the Android App
  In the Android Studio terminal run the instruction:
  <br>
- flutter build apk --no-tree-shake-icons
+ <i>flutter build apk --no-tree-shake-icons</i>
  <br>
  The apk file to install on your Android smartphone will be generated.
  <br>
