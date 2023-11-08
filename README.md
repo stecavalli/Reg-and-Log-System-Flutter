@@ -76,8 +76,8 @@ found in this repository.
  View the image below for more details.
  <br>
  <br>
- <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
+ <img src="screen_app_android_1.png" alt="screen android 1" width="600" height="464">
  <br>
  <br>
-<img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
+<img src="web_build.png" alt="screen android 1" width="200" height="424">
 <img src="screen_app_android_2.png" alt="screen android 1" width="200" height="424">
