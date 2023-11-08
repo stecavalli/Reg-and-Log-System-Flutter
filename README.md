@@ -84,10 +84,11 @@ found in this repository.
  <br>
  The apk file to install on your Android smartphone will be generated.
  <br>
- See the image below:
- <br>
  <br>
  <img src="android_app.png" alt="screen android 1" width="800" height="427">
+<br>
+ <br>
+ The final result of the app installed on Android can be seen in the following images:
  <br>
  <br>
 <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
