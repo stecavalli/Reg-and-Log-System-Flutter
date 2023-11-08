@@ -66,6 +66,17 @@ found in this repository.
  Login to PhpMyAdmin and use the code found in the createTables.sql file on this
  <br> 
  repository to create the tables on the database with the available SQL tool.
+ # Build the Web App
+ In the Android Studio terminal run the instruction:
+ <br>
+ flutter build web --no-tree-shake-icons
+ <br>
+ The web application files will be generated. You just need to upload them to the server. 
+ <br>
+ View the image below for more details.
+ <br>
+ <br>
+ <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
  <br>
  <br>
 <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
