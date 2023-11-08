@@ -60,3 +60,4 @@ found in this repository.
  <br>
  <br>
 <img src="screen_app_android_1.png" alt="screen android 1">
+<img src="screen_app_android_2.png" alt="screen android 1">
