@@ -40,8 +40,10 @@
 		  
           } else {
               echo "Invalid or expired activation token.";
-	      mysqli_stmt_close($check_token_stmt);
           }
+	     
+	  mysqli_stmt_close($check_token_stmt);
+	     
      } else {
          echo "Missing 'token' parameter in URL.";
      }
