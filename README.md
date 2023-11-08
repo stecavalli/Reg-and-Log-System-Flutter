@@ -13,9 +13,9 @@ This example can be applied on a hosting site that has PhpMyAdmin,
  <br>
 MySQL and Sendmail function such as altervista.org.
  <br>
-The codes of the <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files, which 
+The codes of the <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files, 
  <br>
- must be uploaded to the server, must be modified as indicated in each file.
+which must be uploaded to the server, must be modified as indicated in each file.
  <br>
  <br>
 Software Versions Used:
@@ -23,23 +23,25 @@ Software Versions Used:
 Android Studio Giraffe | 2022.3.1 Patch 2
 <br>
 Hosting site: altervista.org
- # Guide to creating and developing apps for the web and Android smartphones.
+ # Guide to creating and developing apps for 
+ # the web and Android smartphones.
 Open Android Studio and create a New Flutter Project by clicking on the
  <br>
 appropriate button which will start the wizard.
  <br>
  <br>
-Copy the codes from the <b>main.dart</b> and <b>pubspec.yaml</b> files and paste them into
+Copy the codes from the <b>main.dart</b> and <b>pubspec.yaml</b> files and paste them
  <br>
-the respective files in your Flutter project.
+into the respective files in your Flutter project.
  <br>
  <br>
-Edit the lines of code within the <b>main.dart</b> file where indicated by the two comments.
+Edit the lines of code within the <b>main.dart</b> file where indicated by the two 
  <br>
-Remember to change the name inside the <b>pubspec.yaml</b> file and the label inside
+comments. Remember to change the name inside the <b>pubspec.yaml</b> file and the
  <br>
-the <b>AndroidManifest.xml</b> file if you have called your project with a name other than "database".
+label inside the <b>AndroidManifest.xml</b> file if you have called your project
  <br>
+with a name other than "database".
  <br>
 The <b>Android Manifest XML</b> file that is generated, when you create a new
  <br>
@@ -59,11 +61,13 @@ as shown in the <b>AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png</b> image
 found in this repository.
  <br>
  <br>
- Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files to the server.
+ Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> 
  <br>
- Login to PhpMyAdmin and use the code found in the createTables.sql file on this repository to
+ files to the server.
+ <br>
+ Login to PhpMyAdmin and use the code found in the createTables.sql file on this
  <br> 
- create the tables on the database with the available SQL tool.
+ repository to create the tables on the database with the available SQL tool.
  <br>
  <br>
 <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
