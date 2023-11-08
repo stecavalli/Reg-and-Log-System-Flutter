@@ -245,9 +245,7 @@ class LoginPageState extends State<LoginPage> {
                             },
                             style: ButtonStyle(
                               backgroundColor: MaterialStateProperty.all<Color>(
-                                  Theme
-                                      .of(context)
-                                      .primaryColor),
+                                  Theme.of(context).primaryColor),
                             ),
                             child: const Padding(
                               padding: EdgeInsets.all(16.0),
@@ -729,9 +727,7 @@ class RegisterPageState extends State<RegisterPage> {
                             },
                             style: ButtonStyle(
                               backgroundColor: MaterialStateProperty.all<Color>(
-                                  Theme
-                                      .of(context)
-                                      .primaryColor),
+                                  Theme.of(context).primaryColor),
                             ),
                             child: const Padding(
                               padding: EdgeInsets.all(16.0),
