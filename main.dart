@@ -358,7 +358,7 @@ class RegisterPageState extends State<RegisterPage> {
   Future<void> senddata() async {
     try {
       final response = await http.post(
-        Uri.parse("http://YOUR-SUBDOMAIN-NAME.altervista.org/registrazione.php"),   // Edit this line by inserting the web address or IP address of the HTTP/WEB server used
+        Uri.parse("http://YOUR-SUBDOMAIN-NAME.altervista.org/register.php"),   // Edit this line by inserting the web address or IP address of the HTTP/WEB server used
         body: {
           "name": firstname.text,
           "lastname": lastname.text,
