@@ -49,13 +49,13 @@ YOUR_APPLICATION_FOLDER\android\app\src\main\AndroidManifest.xml.
  <br>
  <br>
 To this file you need to add the following lines of code:
-<uses-permission android:name="android.permission.INTERNET"/>
+"<uses-permission android:name="android.permission.INTERNET"/>"
  <br>
 android:usesCleartextTraffic="true"
- <br>
  <br>
 as shown in the AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png image
  <br>
 found in this repository.
+ <br>
  <br>
 <img src="screen_app_android_1.png" alt="screen android 1">
