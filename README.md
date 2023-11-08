@@ -60,9 +60,8 @@ as shown in the <b>AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png</b> image
 found in this repository.
  <br>
  <br>
- Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> 
+ Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files to the server.
  <br>
- files to the server.
  <br>
  Login to PhpMyAdmin and use the code found in the createTables.sql file on this
  <br> 
