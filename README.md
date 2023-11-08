@@ -65,5 +65,6 @@ found in this repository.
  <br> 
  create the tables on the database with the available SQL tool.
  <br>
+ <br>
 <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
 <img src="screen_app_android_2.png" alt="screen android 1" width="200" height="424">
