@@ -54,7 +54,7 @@ To this file you need to add the following lines of code:
  <br>
 <i>android:usesCleartextTraffic="true"</i>
  <br>
-as shown in the AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png image
+as shown in the <b>AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png</b> image
  <br>
 found in this repository.
  <br>
