@@ -41,18 +41,18 @@ Remember to change the name inside the <b>pubspec.yaml</b> file and the label in
 the <b>AndroidManifest.xml</b> file if you have called your project with a name other than "database".
  <br>
  <br>
-The Android Manifest XML file that is generated, when you create a new
+The <b>Android Manifest XML</b> file that is generated, when you create a new
  <br>
 Flutter project with Android Studio, is located in the path
  <br>
-YOUR_APPLICATION_FOLDER\android\app\src\main\AndroidManifest.xml.
+<i>YOUR_APPLICATION_FOLDER\android\app\src\main\AndroidManifest.xml.</i>
  <br>
  <br>
 To this file you need to add the following lines of code:
  <br>
-\<uses-permission android:name="android.permission.INTERNET"/\>
+<i>\<uses-permission android:name="android.permission.INTERNET"/\></i>
  <br>
-android:usesCleartextTraffic="true"
+<i>android:usesCleartextTraffic="true"</i>
  <br>
 as shown in the AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png image
  <br>
