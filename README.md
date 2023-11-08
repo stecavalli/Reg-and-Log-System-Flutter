@@ -29,16 +29,16 @@ Open Android Studio and create a New Flutter Project by clicking on the
 appropriate button which will start the wizard.
  <br>
  <br>
-Copy the codes from the main.dart and pubspec.yaml files and paste them into
+Copy the codes from the <b>main.dart</b> and <b>pubspec.yaml</b> files and paste them into
  <br>
 the respective files in your Flutter project.
  <br>
  <br>
-Edit the lines of code within the main.dart file where indicated by the two comments.
+Edit the lines of code within the <b>main.dart</b> file where indicated by the two comments.
  <br>
-Remember to change the name inside the pubspec.yaml file and the label inside
+Remember to change the name inside the <b>pubspec.yaml</b> file and the label inside
  <br>
-the AndroidManifest.xml file if you have called your project with a name other than "database".
+the <b>AndroidManifest.xml</b> file if you have called your project with a name other than "database".
  <br>
  <br>
 The Android Manifest XML file that is generated, when you create a new
