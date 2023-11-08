@@ -47,6 +47,7 @@ To this file you need to add the following lines of code:
 <uses-permission android:name="android.permission.INTERNET"/>
  <br>
 android:usesCleartextTraffic="true"
+<img src="https://raw.githubusercontent.com/stecavalliofficial/Muscle-Car-Unity-Package/main/Muscle%20Car%20-%20Race%20Track.jpg" alt="Muscle Car">
  <br>
 as shown in the AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png image
  <br>
