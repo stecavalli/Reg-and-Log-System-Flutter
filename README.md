@@ -88,7 +88,7 @@ found in this repository.
  <img src="android_app.png" alt="screen android 1" width="800" height="427">
 <br>
  <br>
- The final result of the app installed on Android can be seen in the following images:
+ <b>The final result of the app installed on Android can be seen in the following images:</b>
  <br>
  <br>
 <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
