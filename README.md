@@ -13,7 +13,7 @@ This example can be applied on a hosting site that has PhpMyAdmin,
  <br>
 MySQL and Sendmail function such as altervista.org.
  <br>
-The codes of the login.php, register.php and active.php files, which 
+The codes of the <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files, which 
  <br>
  must be uploaded to the server, must be modified as indicated in each file.
  <br>
