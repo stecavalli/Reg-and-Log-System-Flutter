@@ -59,5 +59,9 @@ as shown in the <b>AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png</b> image
 found in this repository.
  <br>
  <br>
+ Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files to the server.
+ Login to PhpMyAdmin and use the code found in the createTables.sql file on this repository to create the tables on the database with the available SQL tool.
+ <br>
+ <br>
 <img src="screen_app_android_1.png" alt="screen android 1" width="200" height="424">
 <img src="screen_app_android_2.png" alt="screen android 1" width="200" height="424">
