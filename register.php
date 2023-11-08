@@ -73,7 +73,7 @@
                  mysqli_stmt_close($insert_activation_stmt);
                  mysqli_stmt_close($insert_stmt);
            } else {
-               echo "Connection Failed";
+               die("Database connection failed:" . mysqli_connect_error());
            }
        }
        
@@ -81,4 +81,4 @@
                echo "Missing mandatory fields";   // This code will never run if the flutter app
    }                                              // checks for empty required form fields
    mysqli_close($connect);
-?>
+?>
