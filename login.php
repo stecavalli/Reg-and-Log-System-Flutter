@@ -43,4 +43,5 @@
      } else {
          echo "Incorrect username or password";
      }
+     mysqli_close($conn);
 ?>
