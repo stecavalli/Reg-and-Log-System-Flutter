@@ -60,6 +60,7 @@ found in this repository.
  <br>
  <br>
  Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files to the server.
+ <br>
  Login to PhpMyAdmin and use the code found in the createTables.sql file on this repository to create the tables on the database with the available SQL tool.
  <br>
  <br>
