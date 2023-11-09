@@ -61,7 +61,7 @@ Login to PhpMyAdmin and use the code found in the <b>createTables.sql</b> file o
 In the Android Studio terminal run the instruction:
  <br>
 <i>flutter build apk --no-tree-shake-icons</i>
- <br>
+ <br><br>
 The apk file to install on your Android smartphone will be generated.
  <br>
  <br>
