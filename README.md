@@ -28,7 +28,9 @@ Edit the lines of code within the <b>main.dart</b> file where indicated by the t
  <br>
 Remember to change the name inside the <b>pubspec.yaml</b> file and the label inside the <b>AndroidManifest.xml</b> file if you have called your project with a name other than "database".
  <br>
-The <b>Android Manifest XML</b> file that is generated, when you create a new Flutter project with Android Studio, is located in the path <i>YOUR_APPLICATION_FOLDER\android\app\src\main\AndroidManifest.xml.</i>
+The <b>Android Manifest XML</b> file that is generated, when you create a new Flutter project with Android Studio, is located in the path:
+<br>
+<i>YOUR_APPLICATION_FOLDER\android\app\src\main\AndroidManifest.xml.</i>
  <br>
  <br>
 To this file you need to add the following lines of code:
