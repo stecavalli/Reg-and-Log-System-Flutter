@@ -43,7 +43,7 @@ as shown in the <b>AndroidManifestXml_LOCATION_AND_LINES_TO_ADD.png</b> image fo
 Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> files to the server.
  <br>
  <br>
-Login to PhpMyAdmin and use the code found in the createTables.sql file on this repository to create the tables on the database with the available SQL tool.
+Login to PhpMyAdmin and use the code found in the <b>createTables.sql</b> file on this repository to create the tables on the database with the available SQL tool.
 # Build the Web App
  In the Android Studio terminal run the instruction:
  <br>
