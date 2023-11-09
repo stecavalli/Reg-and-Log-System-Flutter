@@ -46,7 +46,7 @@ Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> 
 Login to PhpMyAdmin and use the code found in the <b>createTables.sql</b> file on this repository to create the tables on the database with the available SQL tool.
 # Build the Web App
  In the Android Studio terminal run the instruction:
- <br>
+ <br><br>
  <i>flutter build web --no-tree-shake-icons</i>
  <br>
  The web application files will be generated. 
