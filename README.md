@@ -73,5 +73,5 @@ The apk file to install on your Android smartphone will be generated.
 <b>The final result of the app installed on Android can be seen in the following images:</b>
  <br>
  <br>
-<img src="screen_app_android_1.png" alt="screen android 1" width="200">
-<img src="screen_app_android_2.png" alt="screen android 1" width="200">
+<img src="app_android_1.png" alt="screen android 1" width="240">
+<img src="app_android_2.png" alt="screen android 1" width="240">
