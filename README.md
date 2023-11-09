@@ -58,7 +58,7 @@ Login to PhpMyAdmin and use the code found in the <b>createTables.sql</b> file o
  View the image below for more details.
  <br>
  <br>
- <img src="web_build.png" alt="screen android 1" width="800" height="620">
+ <img src="web_build.png" alt="screen android 1" width="800">
 # Build the Android App
 In the Android Studio terminal run the instruction:
  <br>
