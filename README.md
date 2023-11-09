@@ -67,7 +67,7 @@ In the Android Studio terminal run the instruction:
 The apk file to install on your Android smartphone will be generated.
  <br>
  <br>
-<img src="android_app.png" alt="screen android 1" width="800">
+<img src="android_app_build.png" alt="screen android 1" width="800">
  <br>
  <br>
 <b>The final result of the app installed on Android can be seen in the following images:</b>
