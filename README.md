@@ -51,7 +51,7 @@ The <i>android:usesCleartextTraffic="true"</i> line of code that we placed in th
 <br>
 This can be useful in certain scenarios, such as when you are communicating with a server that does not support encrypted connections (HTTPS).
 <br>
-When you register a subdomain on <b>altervista.org</b> the default setting for your site is like: <i>http<nolink>://YOUR-SUBDOMAIN-NAME.altervista.org</i>
+When you register a subdomain on <b>altervista.org</b> the default setting for your site is like: <b>http<nolink>://YOUR-SUBDOMAIN-NAME.altervista.org</b>
 <br>
 Subsequently it will be possible to activate HTTPS by identifying yourself on the site via an SMS.
 <br><br>
