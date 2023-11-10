@@ -51,7 +51,11 @@ The <i>android:usesCleartextTraffic="true"</i> line of code that we placed in th
 <br>
 This can be useful in certain scenarios, such as when you are communicating with a server that does not support encrypted connections (HTTPS).
 <br>
-However, the use of unencrypted data is generally discouraged for security reasons and it is therefore advisable to use secure connections whenever possible.
+When you register a subdomain on <b>altervista.org</b> the default setting for your site is like: <b>http://YOUR-SUBDOMAIN-NAME.altervista.org</b>
+<br>
+Subsequently it will be possible to activate HTTPS by identifying yourself on the site via an SMS.
+<br>
+The use of unencrypted data is generally discouraged for security reasons and it is therefore advisable to use secure connections whenever possible.
 <br>
 To encrypt data in your Flutter app before sending it to a PHP file, you can consider using encryption algorithms such as AES (Advanced Encryption Standard) or other symmetric or asymmetric encryption approaches.
 <br><br>
