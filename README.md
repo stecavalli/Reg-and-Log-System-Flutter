@@ -79,13 +79,13 @@ void sendDataToPHP(String encryptedData) {
 <br><br>
 // Usage example:
 <br><br>
-String data To Encrypt = "Sensitive data";
+String dataToEncrypt = "Sensitive data";
 <br>
-String EncryptionKey = "SecretKey";
+String encryptionKey = "SecretKey";
+<br><br>
+String encryptedData = encryptData(dataToEncrypt, encryptionKey);
 <br>
-String encrypteddata = encryptData(dataToEncrypt, encryptionkey);
-<br>
-sendDataToPHP(Encrypteddata);
+sendDataToPHP(encryptedData);
 # Build the Web App
  In the Android Studio terminal run the instruction:
  <br>
