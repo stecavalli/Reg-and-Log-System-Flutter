@@ -47,7 +47,7 @@ Upload the modified <b>login.php</b>, <b>register.php</b> and <b>active.php</b> 
  <br>
 Login to PhpMyAdmin and use the code found in the <b>createTables.sql</b> file on this repository to create the tables on the database with the available SQL tool.
 # Data security and encryption
-The android:usesCleartextTraffic="true" line of code that we placed in the <b>AndroidManifest.xml</b> file is used in Android applications to indicate that the application is allowed to send unencrypted data over the network.
+The <i>android:usesCleartextTraffic="true"</i> line of code that we placed in the <b>AndroidManifest.xml</b> file is used in Android applications to indicate that the application is allowed to send unencrypted data over the network.
 <br>
 This can be useful in certain scenarios, such as when you are communicating with a server that does not support encrypted connections (HTTPS).
 <br>
