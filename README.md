@@ -1,7 +1,3 @@
-#link {
-pointer-events: none;
-cursor: default;
-}
 # Reg-and-Log-System-Flutter
 Registration and Login System created with Flutter.
  <br>
@@ -55,7 +51,7 @@ The <i>android:usesCleartextTraffic="true"</i> line of code that we placed in th
 <br>
 This can be useful in certain scenarios, such as when you are communicating with a server that does not support encrypted connections (HTTPS).
 <br>
-When you register a subdomain on <b>altervista.org</b> the default setting for your site is like: <div id="link"><i>http://YOUR-SUBDOMAIN-NAME.altervista.org</i><div>
+When you register a subdomain on <b>altervista.org</b> the default setting for your site is like: <i>http://YOUR-SUBDOMAIN-NAME.altervista.org</i>
 <br>
 Subsequently it will be possible to activate HTTPS by identifying yourself on the site via an SMS.
 <br><br>
