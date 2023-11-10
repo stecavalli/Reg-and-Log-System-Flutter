@@ -49,11 +49,11 @@ Login to PhpMyAdmin and use the code found in the <b>createTables.sql</b> file o
 # Data security and encryption
 The <i>android:usesCleartextTraffic="true"</i> line of code that we placed in the <b>AndroidManifest.xml</b> file is used in Android applications to indicate that the application is allowed to send unencrypted data over the network.
 <br>
-This can be useful in certain scenarios, such as when you are communicating with a server that does not support encrypted connections (HTTPS).
+This can be useful in certain scenarios, such as when you are communicating with a server that does not support encrypted connections <b>HTTPS</b>.
 <br>
 When you register a subdomain on <b>altervista.org</b> the default setting for your site is like: <b>http<nolink>://YOUR-SUBDOMAIN-NAME.altervista.org</b>
 <br>
-Subsequently it will be possible to activate HTTPS by identifying yourself on the site via an SMS.
+Subsequently it will be possible to activate <b>HTTPS</b> by identifying yourself on the site via an SMS.
 <br><br>
 The use of unencrypted data is generally discouraged for security reasons and it is therefore advisable to use secure connections whenever possible.
 <br>
