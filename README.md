@@ -81,7 +81,7 @@ void sendDataToPHP(String encryptedData) {
 <br><br>
 String dataToEncrypt = "Sensitive data";
 <br>
-String encryptionKey = "SecretKey";
+String encryptionKey = "Secret Key";
 <br><br>
 String encryptedData = encryptData(dataToEncrypt, encryptionKey);
 <br>
