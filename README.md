@@ -54,8 +54,8 @@ This can be useful in certain scenarios, such as when you are communicating with
 However, the use of unencrypted data is generally discouraged for security reasons and it is therefore advisable to use secure connections whenever possible.
 <br>
 To encrypt data in your Flutter app before sending it to a PHP file, you can consider using encryption algorithms such as AES (Advanced Encryption Standard) or other symmetric or asymmetric encryption approaches.
-<br>
-<b> - Here's an example of how you might encrypt the data in the flutter app before sending it to the PHP file: </b>
+<br><br>
+<b>Here's an example of how you might encrypt the data in the flutter app before sending it to the PHP file: </b>
 <br><br>
 import 'package:crypto/crypto.dart';
 <br>
