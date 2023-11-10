@@ -1,4 +1,4 @@
-div {
+#link {
 pointer-events: none;
 cursor: default;
 }
