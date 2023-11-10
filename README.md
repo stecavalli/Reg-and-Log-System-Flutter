@@ -60,7 +60,7 @@ To encrypt data in your Flutter app before sending it to a PHP file, you can con
 import 'package:crypto/crypto.dart';
 <br>
 import 'dart:convert';
-<br>
+<br><br>
 String encryptData(String data, String key) {
 <br>
    // Use the AES algorithm or other algorithm of your choice to encrypt the data with the provided key.
@@ -78,12 +78,13 @@ void sendDataToPHP(String encryptedData) {
 }
 <br><br>
 // Usage example:
-<br>
+<br><br>
 String data To Encrypt = "Sensitive data";
 <br>
 String EncryptionKey = "SecretKey";
 <br>
 String encrypteddata = encryptData(dataToEncrypt, encryptionkey);
+<br>
 sendDataToPHP(Encrypteddata);
 # Build the Web App
  In the Android Studio terminal run the instruction:
