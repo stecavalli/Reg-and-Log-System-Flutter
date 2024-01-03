@@ -67,7 +67,9 @@ import 'dart:convert';
 <br><br>
 String encryptData(String data, String key) {
 <br>
-   // Use the AES algorithm or other algorithm of your choice to encrypt the data with the provided key.
+   // Use the AES algorithm or other algorithm of your
+   <br>
+   // choice to encrypt the data with the provided key.
    <br>
    // Return the encrypted data as a string.
    <br>
@@ -77,7 +79,9 @@ void sendDataToPHP(String encryptedData) {
 <br>
    // Send the encrypted data to the PHP server.
    <br>
-   // You can use a library like <b>https://pub.dev/packages/dio</b> to make HTTP POST requests.
+   // You can use a library like <b>https://pub.dev/packages/dio</b>
+   <br>
+   //to make HTTP POST requests.
    <br>
 }
 <br><br>
